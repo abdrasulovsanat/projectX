@@ -1,0 +1,31 @@
+body {
+  font-family:'Aboreto', cursive;
+}
+
+#img-1{
+  width: 100% !important;
+  height: 100% !important;
+  z-index: 0;
+}
+
+#lenta {
+  height: 400px;
+  width: 500px;
+}
+
+#div-container-my{
+  
+  background-color: rgb(145, 149, 159);
+}
+
+.logo-slide-track{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.slide{
+  margin-top: 70px;
+}
+
+
